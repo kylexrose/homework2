@@ -1,0 +1,19 @@
+.header{
+    background-color: red;
+    height: 35px;
+    display: flex;
+    justify-content: space-between;
+    width: 400px;
+}
+
+.controller{
+    display: flex;
+    justify-content: space-between;
+    width: 400px;
+}
+
+.stars{
+    display: flex;
+    flex-wrap: wrap;
+    width: 400px;
+}
